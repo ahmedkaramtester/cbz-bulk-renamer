@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CBZ Bulk Renamer</string>
+    <string name="select_folder">Select Folder</string>
+    <string name="rename_files">Rename Files</string>
+    <string name="undo_last_operation">Undo Last Operation</string>
+    <string name="no_folder_selected">No folder selected</string>
+    <string name="cbz_files_found">CBZ files found</string>
+    <string name="no_files_found">No .cbz files found in selected folder</string>
+    <string name="preview_title">Preview Changes</string>
+    <string name="original_name">Original</string>
+    <string name="new_name">New Name</string>
+    <string name="renaming_progress">Renaming progress</string>
+    <string name="success_count">Success</string>
+    <string name="failure_count">Failed</string>
+    <string name="skipped_count">Skipped</string>
+    <string name="operation_complete">Operation Complete</string>
+    <string name="error_message">Error</string>
+    <string name="file_count_format">%d files</string>
+    <string name="progress_format">%d of %d</string>
+    <string name="no_undo_available">No previous operation to undo</string>
+    <string name="undo_complete">Files restored successfully</string>
+    <string name="duplicate_target_name">Duplicate target name detected</string>
+    <string name="collision_warning">⚠ %s would be overwritten</string>
+    <string name="permission_denied">Permission denied. Please reselect the folder.</string>
+    <string name="file_not_found">File not found: %s</string>
+    <string name="rename_failed">Failed to rename %s</string>
+    <string name="scanning_files">Scanning files...</string>
+</resources>
